@@ -1,0 +1,1272 @@
+Uri: https://www.apple.com.cn/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/ac/ac-films/6.10.0/scripts/autofilms.built.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\ac-films\6.10.0\scripts\autofilms.built.js
+Content Type: application/javascript
+
+Uri: https://www.apple.com.cn/ac/ac-films/6.10.0/styles/modal.css
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\ac-films\6.10.0\styles\modal.css
+Content Type: text/css
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/appletvplus/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\appletvplus\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/appletvplus/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\appletvplus\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/asa/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\asa\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/asa/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\asa\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/bag/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\bag\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/bag/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\bag\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/call/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\call\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/call/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\call\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/engraving/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\engraving\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/engraving/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\engraving\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/financing/cny/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\financing\cny\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/financing/cny/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\financing\cny\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/giftwrap/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\giftwrap\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/giftwrap/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\giftwrap\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/help/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\help\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/help/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\help\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/homekit/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\homekit\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/homekit/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\homekit\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/learning/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\learning\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/learning/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\learning\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/personal_setup/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\personal_setup\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/personal_setup/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\personal_setup\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/retail/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\retail\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/retail/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\retail\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/shipping/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\shipping\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/shipping/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\shipping\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/thirdparty_retail/icon_dark_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\thirdparty_retail\icon_dark_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-buystrip/thirdparty_retail/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-buystrip\thirdparty_retail\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/breadcrumbs/apple/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\breadcrumbs\apple\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/breadcrumbs/separator/icon_large.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\breadcrumbs\separator\icon_large.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_text.eot
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_text.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_text.ttf
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_text.ttf
+Content Type: font/ttf
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_text.woff
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_text.woff
+Content Type: font/woff
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_thin.eot
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_thin.ttf
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_thin.ttf
+Content Type: font/ttf
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_thin.woff
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_thin.woff
+Content Type: font/woff
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_ultralight.eot
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_ultralight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_ultralight.ttf
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_ultralight.ttf
+Content Type: font/ttf
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/assets/ac-footer/legacy/appleicons_ultralight.woff
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\assets\ac-footer\legacy\appleicons_ultralight.woff
+Content Type: font/woff
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/scripts/ac-globalfooter.built.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\scripts\ac-globalfooter.built.js
+Content Type: application/javascript
+
+Uri: https://www.apple.com.cn/ac/globalfooter/8/zh_CN/styles/ac-globalfooter.built.css
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\globalfooter\8\zh_CN\styles\ac-globalfooter.built.css
+Content Type: text/css
+
+Uri: https://www.apple.com.cn/ac/localeswitcher/4/zh_CN/scripts/localeswitcher.built.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\localeswitcher\4\zh_CN\scripts\localeswitcher.built.js
+Content Type: application/javascript
+
+Uri: https://www.apple.com.cn/ac/localnav/9/assets/ac-localnav/chevron/chevron-medium.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\localnav\9\assets\ac-localnav\chevron\chevron-medium.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/localnav/9/assets/ac-localnav/chevron/chevron-small.svg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\localnav\9\assets\ac-localnav\chevron\chevron-small.svg
+Content Type: image/svg+xml
+
+Uri: https://www.apple.com.cn/ac/localnav/9/styles/ac-localnav.built.css
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ac\localnav\9\styles\ac-localnav.built.css
+Content Type: text/css
+
+Uri: https://www.apple.com.cn/accessibility/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\accessibility\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/airpods-pro/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\airpods-pro\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/airpods/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\airpods\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/airtag/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\airtag\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/api-www/global-elements/global-header/v1/assets/globalheader.css
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\api-www\global-elements\global-header\v1\assets\globalheader.css
+Content Type: text/css
+
+Uri: https://www.apple.com.cn/api-www/global-elements/global-header/v1/assets/globalheader.umd.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\api-www\global-elements\global-header\v1\assets\globalheader.umd.js
+Content Type: application/javascript
+
+Uri: https://www.apple.com.cn/app-store/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\app-store\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/apple-events/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\apple-events\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/apple-home/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\apple-home\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/apple-music/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\apple-music\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/apple-pay/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\apple-pay\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/apple-podcasts/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\apple-podcasts\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/apple-vision-pro/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\apple-vision-pro\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/apple-watch-series-9/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\apple-watch-series-9\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/business/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\business\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/businesslicense/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\businesslicense\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/cn-edu/shop/back-to-school/terms-conditions
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\cn-edu\shop\back-to-school\terms-conditions.html
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/cn/search
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\cn\search.html
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/contact/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/education-initiative/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\education-initiative\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/education/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\education\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/education/college-students/mac/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\education\college-students\mac\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/environment/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\environment\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/global-cn/styles/sfpro-cn.css
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\global-cn\styles\sfpro-cn.css
+Content Type: text/css
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_airpod_engrave__gjuxhxb2qsey_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_airpod_engrave__gjuxhxb2qsey_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_airpod_engrave__gjuxhxb2qsey_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_airpod_engrave__gjuxhxb2qsey_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_airpod_engrave__gjuxhxb2qsey_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_airpod_engrave__gjuxhxb2qsey_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_airpod_engrave__gjuxhxb2qsey_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_airpod_engrave__gjuxhxb2qsey_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_airpod_engrave__gjuxhxb2qsey_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_airpod_engrave__gjuxhxb2qsey_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_airpod_engrave__gjuxhxb2qsey_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_airpod_engrave__gjuxhxb2qsey_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_airpod_engrave__gjuxhxb2qsey_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_airpod_engrave__gjuxhxb2qsey_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_airpod_engrave__gjuxhxb2qsey_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_airpod_engrave__gjuxhxb2qsey_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_apple_pen__glaj5t048fue_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_apple_pen__glaj5t048fue_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_apple_pen__glaj5t048fue_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_apple_pen__glaj5t048fue_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_apple_pen__glaj5t048fue_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_apple_pen__glaj5t048fue_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_apple_pen__glaj5t048fue_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_apple_pen__glaj5t048fue_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_apple_pen__glaj5t048fue_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_apple_pen__glaj5t048fue_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_apple_pen__glaj5t048fue_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_apple_pen__glaj5t048fue_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_apple_pen__glaj5t048fue_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_apple_pen__glaj5t048fue_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_apple_pen__glaj5t048fue_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_apple_pen__glaj5t048fue_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_ipadair_alt__gb9b89ucs36m_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_ipadair_alt__gb9b89ucs36m_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_sticker_mba_alt__d8ok9p1fkuoi_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_sticker_mba_alt__d8ok9p1fkuoi_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_exclamation_alt__glecmoc6v4ey_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_exclamation_alt__glecmoc6v4ey_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/back-to-school-2024/images/hero_tapback_heart_alt__de478w2gx8k2_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\back-to-school-2024\images\hero_tapback_heart_alt__de478w2gx8k2_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_large.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_largetall.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_largetall.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_largetall_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_largetall_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_large_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_large_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_medium.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_medium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_mediumtall.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_mediumtall.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_mediumtall_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_mediumtall_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_medium_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_medium_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_small.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/heroes/mac-college-students/images/hero_mac_for_students__f3909jf2wnue_small_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\heroes\mac-college-students\images\hero_mac_for_students__f3909jf2wnue_small_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/images/wechat/open_graph_logo.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\images\wechat\open_graph_logo.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/promos/iphone-family/images/promo_iphone_family__gg2kz1vsg3ma_large.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-family\images\promo_iphone_family__gg2kz1vsg3ma_large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-family/images/promo_iphone_family__gg2kz1vsg3ma_large_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-family\images\promo_iphone_family__gg2kz1vsg3ma_large_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-family/images/promo_iphone_family__gg2kz1vsg3ma_medium.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-family\images\promo_iphone_family__gg2kz1vsg3ma_medium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-family/images/promo_iphone_family__gg2kz1vsg3ma_medium_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-family\images\promo_iphone_family__gg2kz1vsg3ma_medium_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-family/images/promo_iphone_family__gg2kz1vsg3ma_small.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-family\images\promo_iphone_family__gg2kz1vsg3ma_small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-family/images/promo_iphone_family__gg2kz1vsg3ma_small_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-family\images\promo_iphone_family__gg2kz1vsg3ma_small_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-privacy-static/images/promo_iphone_privacy_yue__cgmu93wypcz6_large.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-privacy-static\images\promo_iphone_privacy_yue__cgmu93wypcz6_large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-privacy-static/images/promo_iphone_privacy_yue__cgmu93wypcz6_large_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-privacy-static\images\promo_iphone_privacy_yue__cgmu93wypcz6_large_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-privacy-static/images/promo_iphone_privacy_yue__cgmu93wypcz6_medium.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-privacy-static\images\promo_iphone_privacy_yue__cgmu93wypcz6_medium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-privacy-static/images/promo_iphone_privacy_yue__cgmu93wypcz6_medium_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-privacy-static\images\promo_iphone_privacy_yue__cgmu93wypcz6_medium_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-privacy-static/images/promo_iphone_privacy_yue__cgmu93wypcz6_small.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-privacy-static\images\promo_iphone_privacy_yue__cgmu93wypcz6_small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-privacy-static/images/promo_iphone_privacy_yue__cgmu93wypcz6_small_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-privacy-static\images\promo_iphone_privacy_yue__cgmu93wypcz6_small_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/iphone-tradein/images/logos/logo_tradein__d1fpktgipvki_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-tradein\images\logos\logo_tradein__d1fpktgipvki_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/promos/iphone-tradein/images/logos/logo_tradein__d1fpktgipvki_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-tradein\images\logos\logo_tradein__d1fpktgipvki_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/promos/iphone-tradein/images/logos/logo_tradein__d1fpktgipvki_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-tradein\images\logos\logo_tradein__d1fpktgipvki_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/promos/iphone-tradein/images/logos/logo_tradein__d1fpktgipvki_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-tradein\images\logos\logo_tradein__d1fpktgipvki_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/promos/iphone-tradein/images/logos/logo_tradein__d1fpktgipvki_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-tradein\images\logos\logo_tradein__d1fpktgipvki_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/promos/iphone-tradein/images/logos/logo_tradein__d1fpktgipvki_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\iphone-tradein\images\logos\logo_tradein__d1fpktgipvki_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/home/promos/macbook-air-m3/images/promo_macbook_air_m3__e43jegok3wuq_large.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\macbook-air-m3\images\promo_macbook_air_m3__e43jegok3wuq_large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/macbook-air-m3/images/promo_macbook_air_m3__e43jegok3wuq_large_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\macbook-air-m3\images\promo_macbook_air_m3__e43jegok3wuq_large_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/macbook-air-m3/images/promo_macbook_air_m3__e43jegok3wuq_medium.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\macbook-air-m3\images\promo_macbook_air_m3__e43jegok3wuq_medium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/macbook-air-m3/images/promo_macbook_air_m3__e43jegok3wuq_medium_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\macbook-air-m3\images\promo_macbook_air_m3__e43jegok3wuq_medium_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/macbook-air-m3/images/promo_macbook_air_m3__e43jegok3wuq_small.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\macbook-air-m3\images\promo_macbook_air_m3__e43jegok3wuq_small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/macbook-air-m3/images/promo_macbook_air_m3__e43jegok3wuq_small_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\macbook-air-m3\images\promo_macbook_air_m3__e43jegok3wuq_small_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/watch-series-9/images/promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\watch-series-9\images\promo_apple_watch_series_9_order__b3u85rm9zf6u_large.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/watch-series-9/images/promo_apple_watch_series_9_order__b3u85rm9zf6u_large_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\watch-series-9\images\promo_apple_watch_series_9_order__b3u85rm9zf6u_large_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/watch-series-9/images/promo_apple_watch_series_9_order__b3u85rm9zf6u_medium.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\watch-series-9\images\promo_apple_watch_series_9_order__b3u85rm9zf6u_medium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/watch-series-9/images/promo_apple_watch_series_9_order__b3u85rm9zf6u_medium_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\watch-series-9\images\promo_apple_watch_series_9_order__b3u85rm9zf6u_medium_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/watch-series-9/images/promo_apple_watch_series_9_order__b3u85rm9zf6u_small.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\watch-series-9\images\promo_apple_watch_series_9_order__b3u85rm9zf6u_small.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/home/promos/watch-series-9/images/promo_apple_watch_series_9_order__b3u85rm9zf6u_small_2x.jpg
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\home\promos\watch-series-9\images\promo_apple_watch_series_9_order__b3u85rm9zf6u_small_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.apple.com.cn/ipad-pro/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ipad-pro\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/ipad/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\ipad\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/iphone/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\iphone\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/iphone/privacy/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\iphone\privacy\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/job-creation/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\job-creation\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/leadership/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\leadership\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/legal/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\legal\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/legal/internet-services/terms/site.html
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\legal\internet-services\terms\site.html
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/legal/privacy/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\legal\privacy\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/mac/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\mac\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/macbook-air/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\macbook-air\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/metrics/ac-analytics/2.21.0/scripts/ac-analytics.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\metrics\ac-analytics\2.21.0\scripts\ac-analytics.js
+Content Type: application/x-javascript
+
+Uri: https://www.apple.com.cn/metrics/data-relay/1.1.4/scripts/auto-relay.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\metrics\data-relay\1.1.4\scripts\auto-relay.js
+Content Type: application/javascript
+
+Uri: https://www.apple.com.cn/metrics/data-relay/1.1.4/scripts/data-relay.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\metrics\data-relay\1.1.4\scripts\data-relay.js
+Content Type: application/javascript
+
+Uri: https://www.apple.com.cn/newsroom/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\newsroom\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/privacy/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\privacy\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/retail/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\retail\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/retail/business/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\retail\business\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/retail/geniusbar/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\retail\geniusbar\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/shop/browse/open/salespolicies
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\shop\browse\open\salespolicies.html
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/shop/buy-mac/macbook-air
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\shop\buy-mac\macbook-air.html
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/shop/product/MTJV3CH/A
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\shop\product\MTJV3CH\A.html
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/sitemap/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\sitemap\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/store
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\store.html
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/supply-chain/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\supply-chain\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/today/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\today\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/today/event/apple-camp-story-of-kindness/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\today\event\apple-camp-story-of-kindness\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/today/groups/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\today\groups\index.htm
+Content Type: text/html
+
+Uri: https://www.apple.com.cn/v/home/bo/built/scripts/head.built.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\built\scripts\head.built.js
+Content Type: application/x-javascript
+
+Uri: https://www.apple.com.cn/v/home/bo/built/scripts/main.built.js
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\built\scripts\main.built.js
+Content Type: application/x-javascript
+
+Uri: https://www.apple.com.cn/v/home/bo/built/styles/main.built.css
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\built\styles\main.built.css
+Content Type: text/css
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/airtag/promo_logo_airtag__c5t9ubtmpuqa_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\airtag\promo_logo_airtag__c5t9ubtmpuqa_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/airtag/promo_logo_airtag__c5t9ubtmpuqa_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\airtag\promo_logo_airtag__c5t9ubtmpuqa_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/airtag/promo_logo_airtag__c5t9ubtmpuqa_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\airtag\promo_logo_airtag__c5t9ubtmpuqa_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/airtag/promo_logo_airtag__c5t9ubtmpuqa_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\airtag\promo_logo_airtag__c5t9ubtmpuqa_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/airtag/promo_logo_airtag__c5t9ubtmpuqa_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\airtag\promo_logo_airtag__c5t9ubtmpuqa_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/airtag/promo_logo_airtag__c5t9ubtmpuqa_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\airtag\promo_logo_airtag__c5t9ubtmpuqa_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-card/logo__dcojfwkzna2q_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-card\logo__dcojfwkzna2q_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-card/logo__dcojfwkzna2q_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-card\logo__dcojfwkzna2q_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-card/logo__dcojfwkzna2q_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-card\logo__dcojfwkzna2q_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-card/logo__dcojfwkzna2q_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-card\logo__dcojfwkzna2q_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-card/logo__dcojfwkzna2q_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-card\logo__dcojfwkzna2q_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-card/logo__dcojfwkzna2q_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-card\logo__dcojfwkzna2q_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/hero_logo_apple-fitness-plus__buvymjiniu3m_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\hero_logo_apple-fitness-plus__buvymjiniu3m_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/promo_logo_fitness__ghrl68mizmqi_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\promo_logo_fitness__ghrl68mizmqi_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/promo_logo_fitness__ghrl68mizmqi_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\promo_logo_fitness__ghrl68mizmqi_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/promo_logo_fitness__ghrl68mizmqi_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\promo_logo_fitness__ghrl68mizmqi_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/promo_logo_fitness__ghrl68mizmqi_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\promo_logo_fitness__ghrl68mizmqi_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/promo_logo_fitness__ghrl68mizmqi_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\promo_logo_fitness__ghrl68mizmqi_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-fitness-plus/promo_logo_fitness__ghrl68mizmqi_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-fitness-plus\promo_logo_fitness__ghrl68mizmqi_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/hero_logo_ai__l1dt5hl7b8am_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\hero_logo_ai__l1dt5hl7b8am_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/hero_logo_ai__l1dt5hl7b8am_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\hero_logo_ai__l1dt5hl7b8am_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/hero_logo_ai__l1dt5hl7b8am_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\hero_logo_ai__l1dt5hl7b8am_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/hero_logo_ai__l1dt5hl7b8am_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\hero_logo_ai__l1dt5hl7b8am_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/hero_logo_ai__l1dt5hl7b8am_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\hero_logo_ai__l1dt5hl7b8am_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/hero_logo_ai__l1dt5hl7b8am_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\hero_logo_ai__l1dt5hl7b8am_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/promo_logo_ai__uudkz2u7mfm6_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\promo_logo_ai__uudkz2u7mfm6_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/promo_logo_ai__uudkz2u7mfm6_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\promo_logo_ai__uudkz2u7mfm6_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/promo_logo_ai__uudkz2u7mfm6_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\promo_logo_ai__uudkz2u7mfm6_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/promo_logo_ai__uudkz2u7mfm6_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\promo_logo_ai__uudkz2u7mfm6_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/promo_logo_ai__uudkz2u7mfm6_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\promo_logo_ai__uudkz2u7mfm6_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-intelligence/promo_logo_ai__uudkz2u7mfm6_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-intelligence\promo_logo_ai__uudkz2u7mfm6_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-music-100-best/promo_logo_am_top100__cxbbmxftk38m_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-music-100-best\promo_logo_am_top100__cxbbmxftk38m_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-music-100-best/promo_logo_am_top100__cxbbmxftk38m_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-music-100-best\promo_logo_am_top100__cxbbmxftk38m_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-music-100-best/promo_logo_am_top100__cxbbmxftk38m_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-music-100-best\promo_logo_am_top100__cxbbmxftk38m_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-music-100-best/promo_logo_am_top100__cxbbmxftk38m_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-music-100-best\promo_logo_am_top100__cxbbmxftk38m_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-music-100-best/promo_logo_am_top100__cxbbmxftk38m_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-music-100-best\promo_logo_am_top100__cxbbmxftk38m_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-music-100-best/promo_logo_am_top100__cxbbmxftk38m_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-music-100-best\promo_logo_am_top100__cxbbmxftk38m_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-one/logo__dcojfwkzna2q_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-one\logo__dcojfwkzna2q_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-one/logo__dcojfwkzna2q_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-one\logo__dcojfwkzna2q_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-one/logo__dcojfwkzna2q_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-one\logo__dcojfwkzna2q_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-one/logo__dcojfwkzna2q_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-one\logo__dcojfwkzna2q_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-one/logo__dcojfwkzna2q_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-one\logo__dcojfwkzna2q_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-one/logo__dcojfwkzna2q_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-one\logo__dcojfwkzna2q_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-tv-4k/promo_tv4k_logo__5m5umvk10duu_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-tv-4k\promo_tv4k_logo__5m5umvk10duu_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-tv-4k/promo_tv4k_logo__5m5umvk10duu_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-tv-4k\promo_tv4k_logo__5m5umvk10duu_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-tv-4k/promo_tv4k_logo__5m5umvk10duu_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-tv-4k\promo_tv4k_logo__5m5umvk10duu_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-tv-4k/promo_tv4k_logo__5m5umvk10duu_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-tv-4k\promo_tv4k_logo__5m5umvk10duu_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-tv-4k/promo_tv4k_logo__5m5umvk10duu_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-tv-4k\promo_tv4k_logo__5m5umvk10duu_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-tv-4k/promo_tv4k_logo__5m5umvk10duu_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-tv-4k\promo_tv4k_logo__5m5umvk10duu_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro-enhanced/hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro-enhanced\hero_logo_apple_vision_pro_enhanced__co9clx0e4afm_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/hero_logo_apple_vision_pro__ea9qv4w4cngy_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\hero_logo_apple_vision_pro__ea9qv4w4cngy_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/promo_logo_apple_vision_pro__90zi46p7dc2y_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\promo_logo_apple_vision_pro__90zi46p7dc2y_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/promo_logo_apple_vision_pro__90zi46p7dc2y_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\promo_logo_apple_vision_pro__90zi46p7dc2y_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/promo_logo_apple_vision_pro__90zi46p7dc2y_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\promo_logo_apple_vision_pro__90zi46p7dc2y_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/promo_logo_apple_vision_pro__90zi46p7dc2y_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\promo_logo_apple_vision_pro__90zi46p7dc2y_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/promo_logo_apple_vision_pro__90zi46p7dc2y_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\promo_logo_apple_vision_pro__90zi46p7dc2y_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-vision-pro/promo_logo_apple_vision_pro__90zi46p7dc2y_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-vision-pro\promo_logo_apple_vision_pro__90zi46p7dc2y_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-carbon-neutral/promo_logo_carbon_neutral__dhaee115fxoy_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-carbon-neutral\promo_logo_carbon_neutral__dhaee115fxoy_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-carbon-neutral/promo_logo_carbon_neutral__dhaee115fxoy_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-carbon-neutral\promo_logo_carbon_neutral__dhaee115fxoy_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-carbon-neutral/promo_logo_carbon_neutral__dhaee115fxoy_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-carbon-neutral\promo_logo_carbon_neutral__dhaee115fxoy_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-carbon-neutral/promo_logo_carbon_neutral__dhaee115fxoy_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-carbon-neutral\promo_logo_carbon_neutral__dhaee115fxoy_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-carbon-neutral/promo_logo_carbon_neutral__dhaee115fxoy_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-carbon-neutral\promo_logo_carbon_neutral__dhaee115fxoy_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-carbon-neutral/promo_logo_carbon_neutral__dhaee115fxoy_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-carbon-neutral\promo_logo_carbon_neutral__dhaee115fxoy_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_largetall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_largetall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_largetall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_largetall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_mediumtall.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_mediumtall.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_mediumtall_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_mediumtall_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/hero_logo_apple_watch_se__lku4io5tkz6q_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\hero_logo_apple_watch_se__lku4io5tkz6q_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/promo_logo_apple_watch_se__b85vr9ri02gi_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\promo_logo_apple_watch_se__b85vr9ri02gi_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/promo_logo_apple_watch_se__b85vr9ri02gi_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\promo_logo_apple_watch_se__b85vr9ri02gi_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/promo_logo_apple_watch_se__b85vr9ri02gi_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\promo_logo_apple_watch_se__b85vr9ri02gi_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/promo_logo_apple_watch_se__b85vr9ri02gi_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\promo_logo_apple_watch_se__b85vr9ri02gi_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/promo_logo_apple_watch_se__b85vr9ri02gi_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\promo_logo_apple_watch_se__b85vr9ri02gi_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-se/promo_logo_apple_watch_se__b85vr9ri02gi_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-se\promo_logo_apple_watch_se__b85vr9ri02gi_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9-anim/hero_logo_apple_watch_series_9__eg5xcrxghuaa_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9-anim\hero_logo_apple_watch_series_9__eg5xcrxghuaa_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9-anim/hero_logo_apple_watch_series_9__eg5xcrxghuaa_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9-anim\hero_logo_apple_watch_series_9__eg5xcrxghuaa_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9-anim/hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9-anim\hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9-anim/hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9-anim\hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9-anim/hero_logo_apple_watch_series_9__eg5xcrxghuaa_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9-anim\hero_logo_apple_watch_series_9__eg5xcrxghuaa_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9-anim/hero_logo_apple_watch_series_9__eg5xcrxghuaa_small_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9-anim\hero_logo_apple_watch_series_9__eg5xcrxghuaa_small_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9/hero_logo_apple_watch_series_9__eg5xcrxghuaa_large.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9\hero_logo_apple_watch_series_9__eg5xcrxghuaa_large.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9/hero_logo_apple_watch_series_9__eg5xcrxghuaa_large_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9\hero_logo_apple_watch_series_9__eg5xcrxghuaa_large_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9/hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9\hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9/hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium_2x.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9\hero_logo_apple_watch_series_9__eg5xcrxghuaa_medium_2x.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/v/home/bo/images/logos/apple-watch-series-9/hero_logo_apple_watch_series_9__eg5xcrxghuaa_small.png
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\v\home\bo\images\logos\apple-watch-series-9\hero_logo_apple_watch_series_9__eg5xcrxghuaa_small.png
+Content Type: image/png
+
+Uri: https://www.apple.com.cn/watch/
+File Name: C:\Downloaded Web Sites\www.apple.com.cn\watch\index.htm
+Content Type: text/html
+
